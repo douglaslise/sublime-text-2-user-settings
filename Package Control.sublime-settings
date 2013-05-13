@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Emmet",
+		"Emmet Css Snippets",
+		"Gem Browser",
+		"Gist",
+		"Git",
+		"Navigation History",
+		"Package Control",
+		"RubyFormat",
+		"Sass",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"git://github.com/diniremix/sublime-pascal.git",
+		"https://sublime.wbond.net/testing/packages.json"
+	],
+	"repository_channels":
+	[
+		"https://sublime.wbond.net/repositories.json",
+		"https://github.com/diniremix/sublime-pascal"
+	]
+}

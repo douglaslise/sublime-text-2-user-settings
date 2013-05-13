@@ -1,0 +1,5 @@
+{
+  "cmd": ["tt.bat","$file_name"],
+  "working_dir": "$file_path",
+  "encoding": "iso-8859-1"
+}

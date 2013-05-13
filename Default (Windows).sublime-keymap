@@ -1,0 +1,14 @@
+[
+	{ "keys": ["ctrl+shift+s"], "command": "save_all" },
+
+  // Faz com que ao teclar jj o VI saia do modo de edicao
+  { "keys": ["j", "j"], "command": "exit_insert_mode",
+    "context":
+    [
+      { "key": "setting.command_mode", "operand": false },
+      { "key": "setting.is_widget", "operand": false }
+    ]
+  }
+
+
+]

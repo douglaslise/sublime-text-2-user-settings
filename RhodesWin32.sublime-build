@@ -1,0 +1,6 @@
+{
+	"cmd": ["ruby", "run.rb"],
+  //"path": "c:\\wmobile\\client\\src",
+  "working_dir": "c:\\wmobile\\client\\src",
+  "encoding": "iso-8859-1"
+  }
